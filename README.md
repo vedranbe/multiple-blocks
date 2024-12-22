@@ -1,4 +1,4 @@
-# Multiple Gutenberg Blocks Template Plugin 
+# Multiple Gutenberg Blocks Plugin 
 
 Multiple Blocks is a WordPress plugin that provides a set of custom Gutenberg blocks for any theme. This plugin enhances the editing experience by offering additional block options tailored for your content needs.
 
