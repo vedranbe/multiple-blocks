@@ -7,7 +7,7 @@ Multiple Blocks is a WordPress plugin that provides a set of custom Gutenberg bl
 - Multiple custom blocks for versatile content creation.
 - Easy integration with the Multiple theme.
 - Built with modern JavaScript and React.
-- Custom SCG icons.
+- Custom SVG icons.
 - Custom block category.
 
 ## Installation
